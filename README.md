@@ -44,7 +44,7 @@ This project is licensed under the **MIT License**. You are free to modify and u
 
 ## 📬 Contact
 If you have any suggestions or issues, feel free to reach out:
-- GitHub: <ahref="https://github.com/from-tanim">Git</ahref>
+- GitHub: https://github.com/from-tanim
 - Email: h.tanim@outlook.com
 
 ---
