@@ -31,8 +31,7 @@ You can check out the live version of this project here: **[Live Demo Link]** (A
 3. Open `index.html` in your browser.
 
 ## 📸 Screenshots
-![Preview of the Application](screenshot.png) *(Add a screenshot of your project here)*
-
+![Preview of the Application]([screenshot.png](https://github.com/from-tanim/INVERTED-READER/blob/main/Main/Screenshot-0.jpeg)) 
 ## 🏗️ How It Works
 1. The user selects a PDF file using the file input field.
 2. **PDF.js** processes the file and renders each page onto an HTML5 canvas.
