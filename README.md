@@ -1,5 +1,19 @@
 # Invert PDF Colors
 
+1.0.1
+# 🎨 What’s New?
+✅ Light & Dark Mode Toggle
+✅ Remembers User’s Preference (via localStorage)
+✅ More Professional UI
+✅ Smooth Transitions
+
+# 💡 How It Works
+Clicking "Toggle Theme" switches between light and dark modes.
+The theme remains saved even after refreshing the page.
+Dark Mode is the default, but users can switch anytime.
+
+--------------------------------------------------------------------------------
+
 ## 📌 Overview
 This web application allows users to upload and view PDF files with inverted colors, making it easier to read in dark mode. The website utilizes **PDF.js** to render PDF pages onto an HTML5 canvas and then applies a color inversion effect for a night-friendly reading experience.
 
